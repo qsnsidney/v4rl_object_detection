@@ -1,7 +1,3 @@
-# v4rl
-
-Code I wrote during my time at Vision for Robotics Lab at ETH.
-
 ## Darknet
 Repo for darknet_ros can be found at https://github.com/leggedrobotics/darknet_ros. Original code and documentation can be found at https://github.com/pjreddie/darknet and https://pjreddie.com/darknet/yolo/.
 ### labelmefacade
