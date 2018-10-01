@@ -1,0 +1,5 @@
+classes = 1
+train = /home/nvidia/Downloads/labelmefacade/train.txt
+valid = /home/nvidia/Downloads/labelmefacade/test.txt
+names = /home/nvidia/catkin_workspace/src/darknet_ros/darknet_ros/yolo_network_config/cfg/customized.names
+backup = /home/nvidia/catkin_workspace/src/darknet_ros/darknet_ros/yolo_network_config/backup
